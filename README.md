@@ -9,6 +9,7 @@ This repository is a personal space for exploring and documenting the underlying
 ## Content
 
 - `karpenter_vs_kubernetes_scheduler_blog_post.md` — an essay that explains the difference between the Kubernetes scheduler and Karpenter, and why the distinction matters.
+- `service-mesh-is-not-network-consul-vs-submariner.md` — an essay that explains why Consul and Submariner solve different problems and why both layers matter in enterprise Kubernetes.
 
 ## Why this repo exists
 
