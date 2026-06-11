@@ -3,6 +3,7 @@
 A practical look at where service mesh ends and multi-cluster networking begins in enterprise Kubernetes.
 
 Kubernetes platforms have evolved far beyond simply running containers.
+
 Most enterprise environments today operate across:
 • multiple clusters
 • multiple regions
