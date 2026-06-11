@@ -1,6 +1,5 @@
 # What nobody tells you about running GPU workloads on OpenShift
 
-_By Sreejitha Karthik_
 
 Running GPU workloads on OpenShift looks straightforward on paper. The NVIDIA GPU Operator installs clean. The docs are reasonably good. Then you hit production — a regulated enterprise environment, real inference traffic, models that cannot go down — and a different set of problems emerges entirely.
 
